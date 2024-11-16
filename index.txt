@@ -1,0 +1,45 @@
+ <!Doctype html>
+
+<html>
+
+  <head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Les Suites de la Villa</title>
+  <!-- Link to external CSS -->
+  <link rel="stylesheet" href="./styles.css">
+  <!-- Link to external JavaScript -->
+  <script defer src="./script.js"></script>
+
+  </head>
+
+<body>
+    <div class="container">
+
+<!-- Navi bar menue -->    
+    <ul>
+        <li><a class="active" href="https://annaprentice.w3spaces.com/Project/Index.html">Home</a></li>
+        <li><a class="active" href="https://annaprentice.w3spaces.com/Project/ContactUs.html">Contact Us</a></li>
+        <li><a class="active" href="https://annaprentice.w3spaces.com/Project/AboutUs.html">About</a></li>
+    </ul> 
+
+
+
+<h1>Book Now at <i>Les Suites de la Villa</i></h1>
+
+<br>
+
+<!-- image -->
+<div class="container">
+<img src="https://live.staticflickr.com/65535/54101747795_7f068aeb1f_c.jpg" width=auto  height=auto class=img alt="Rooftop Sunset"/></a>
+<p><center><i>*Actual Photo of Rooftop Sunset taken by <b>Angela Dixon</b> located at the Kabana Rooftop in Richmond, Virginia</i><center></p>
+</div>
+
+
+<div class="footer">
+<!-- <p></p> footer holder -->
+    <p></p>
+</div>
+</body>
+</html>
